@@ -27,11 +27,32 @@ make a web-page => heading, button, a, img, jitna padhi h sab use karna h.
 
 
 28/12/2023
-lists  :- done
+lists       :- done
+
+31/12/2023
+class       :-done
+id          :-done
+
+to be learnt
 table
-class
-id
 div
 color
-
 forms
+block and inline elements
+
+css colors types:- name, rgb(values), HEX color, hsl(values), rgba(vlues), hsla(vlues), 
+css colors:- color, background-color, border color, 
+css fonts:-  font-family, font-size
+css border
+css padding
+css margin
+
+images attributes :- width, height, style, 
+image fetching :- how to get images from other folders, how to get images from another server, 
+animated image
+how to set image as a link 
+how to set background image on html element
+how to set background imge on page :- background-repeat, background covor, background-stretch
+picture element
+
+how to set html favicon
