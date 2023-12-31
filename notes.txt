@@ -1,0 +1,37 @@
+27/12/2023
+
+<!DOCTYPE html>
+html 
+    head
+    body
+
+title
+header
+footer
+element
+tags :- p, heading(h1......), button, img, anchor tag(a) div, br,
+attributes :- href="" (a),    src="" (img)
+
+css
+1. inline css
+2. internal css :- style tag k ander heading me
+3. external css :- style.css file ke ander likhte h
+
+specificity :- inline css > internal css > external css.
+
+css :- color, background-color, width, height, border, border-radius, font-size,
+
+homework
+make a web-page => heading, button, a, img, jitna padhi h sab use karna h.
+
+
+
+28/12/2023
+lists  :- done
+table
+class
+id
+div
+color
+
+forms

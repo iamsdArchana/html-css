@@ -1,0 +1,20 @@
+1. download & install git (one time)
+2. set up user name & email_id in git (git cmd ya git bash se)
+    git config --global user.name "Archana"
+    git config --global user.name "iamsdArchana@gmail.com"
+
+to check user name & email_id connected in git
+    git config --global user.name
+    git config --global user.email
+
+
+..........first go to directory ..........
+------------------------------------------
+git init                :- one time
+git branch -M main      :- one time
+git add .
+git commit -m "commit message"
+git remote add origin [https://github.com/iamsdArchana/test.git]    :- one time
+git push origin main
+
+it will ask username & password for the above url (url kis github account ka h)
