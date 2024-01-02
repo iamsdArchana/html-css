@@ -1,0 +1,4 @@
+Q1. Diff b/w padding & margin ?
+Q2. Border
+Q3. What is Box Model ?
+Q3. Different ways to use CSS ?

@@ -1,0 +1,10 @@
+Q1. What is HTML ? 
+Q. What is <!DOCTYPE html> ?
+Q2. Difference b/w div and span ? use of span tag ?
+Q3. What are Symentic tags ?
+Q4. What are Metatags ?
+Q5. End Tag Vs Empty Tag ?
+Q6. What is Input tag ? types of Input Tag ?
+Q7. Text Area ?
+Q8. Hyper Links in HTMl ?
+Q9. 
