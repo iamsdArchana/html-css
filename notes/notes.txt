@@ -9,17 +9,17 @@ title
 header
 footer
 element
-tags :- p, heading(h1......), button, img, anchor tag(a) div, br,
-attributes :- href="" (a),    src="" (img)
+tags :- p, heading(h1......), button, img, anchor tag(a) div, br,                           :- done
+attributes :- href="" (a),    src="" (img)                                                  :- done
 
 css
-1. inline css
-2. internal css :- style tag k ander heading me
+1. inline css                                                                               :- done
+2. internal css :- style tag k ander heading me                                             :- done
 3. external css :- style.css file ke ander likhte h
 
 specificity :- inline css > internal css > external css.
 
-css :- color, background-color, width, height, border, border-radius, font-size,
+css :- color, background-color, width, height, border, border-radius, font-size,            :- done
 
 homework
 make a web-page => heading, button, a, img, jitna padhi h sab use karna h.
@@ -47,9 +47,9 @@ css padding                                                                     
 css margin                                                                                  :- done
 css fonts:-  font-family, font-size                                                         :- done                                                   
 
-images attributes :- width, height, style, 
-image fetching :- how to get images from other folders, how to get images from another server, 
-animated image
+images attributes :- width, height, style,                                                  :- done 
+image fetching :- how to get images from other folders, from another server/internet    `   :- done
+animated image :-                                                                           :- done
 how to set image as a link 
 how to set background image on html element
 how to set background imge on page :- background-repeat, background covor, background-stretch
