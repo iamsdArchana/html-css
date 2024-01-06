@@ -2,8 +2,8 @@
 
 <!DOCTYPE html>
 html 
-    head
-    body
+head
+body
 
 title
 header
@@ -45,7 +45,7 @@ css colors:- color, background-color, border color,                             
 css border                                                                                  :- done
 css padding                                                                                 :- done
 css margin                                                                                  :- done
-css fonts:-  font-family, font-size                                                         
+css fonts:-  font-family, font-size                                                         :- done                                                   
 
 images attributes :- width, height, style, 
 image fetching :- how to get images from other folders, how to get images from another server, 
