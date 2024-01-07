@@ -36,7 +36,6 @@ id                          :-done
 to be learnt
 block and inline elements   :- done
 div                         :- done
-table
 forms
 
 color
@@ -56,3 +55,14 @@ how to set background imge on page :- background-repeat, background covor, backg
 picture element
 
 how to set html favicon
+
+7/Jan/2024
+HTML Tables
+    - <table>, <tr>, <td>, <th>                                                              :- done
+    - <caption>                                                                              :- done
+    - <thead>, <tbody>, <tfoot>                                                              :- done
+    - table width                                                                            :- done
+    - Adding Border, border-collapse                                                         :- done
+    - table data (<td>) - align -centre                                                      :- done
+    - colspan, rowspan                                                                       :- done
+    - cell padding                                                                           :- done
