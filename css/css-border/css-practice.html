@@ -7,7 +7,13 @@
     <title>css-practice.html2</title>
 <style>
     *{
-        color:brown ;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    body{
+        border: 5px solid red;
     }
     
     
@@ -28,6 +34,20 @@
     .parent1 > img{
         width:100%;   
     }
+    p{
+        /* text-align: justify; */
+        /* text-align-last: justify; */
+        /* direction: rtl; */
+        /* unicode-bidi: bidi-override; */
+        /* vertical-align: baseline; */
+        text-transform: capitalize;
+        text-indent: 100px;
+        letter-spacing: 2px;
+        line-height:2;
+        word-spacing:2px;
+        text-shadow: 3px 3px 5px #4455ee;
+
+    }
     
     
     h1,h2{
@@ -39,9 +59,11 @@
         border-radius: 5px;
         text-decoration: underline dashed black;
         margin:50px 25px 35px 100px;
-        margin-left: auto;
-        margin-right: auto;
+        /* margin-left: auto; */
+        /* margin-right: auto; */
         width: 200px;
+        text-shadow: 3px 3px 5px blue;
+
         
 
     }
@@ -52,9 +74,10 @@
     border: 2px dotted #aaaaaa;
     border-color: BLUE GREEN RED PINK;
     border-radius:5PX;
-    text-decoration:line-through solid black;
+    text-decoration:line-through  5px solid black;
     margin: 50px 60px 80px 80px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px;
     }
     h4{
         border:5px dotted red;
@@ -66,16 +89,34 @@
         margin-left: auto;
         margin-right: auto;
         font-family:Verdana, Geneva, Tahoma, sans-serif;
+        text-shadow: 1px 1px 2px red,0px 0px 25px blue,0px 0px 5px darkred;
 
     }   
     h5{
         font-size: 40px;
         text-decoration:line-through;
         padding:80px;
+        text-shadow: 1px 1px 3px white,2px 2px 5px red,2px 2px 5px blue;
     }
     h6{
         font-size: 50px;
-        text-decoration:underline dashed green;
+        text-decoration:overline 6px solid green;
+        text-shadow: 2px 0px 10px red;
+    }
+
+    .image-container{
+        width: 300px;
+        border: 5px solid blue;
+    }
+    .image{
+        width: 100%;
+    }
+    span{
+        vertical-align:text-top;
+        width: 50px;
+    }
+    a{
+        text-decoration: none;
     }
     </style>
 </head>
@@ -92,7 +133,12 @@
     <h6>PREMIUM DUE</h6>
     <P>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eius velit maiores iusto ut? Magni laboriosam repudiandae, deleniti nulla veniam aut. Culpa sequi asperiores mollitia optio deleniti aliquid cupiditate porro blanditiis aperiam, atque aspernatur numquam sit expedita nam dolorum id ratione esse ducimus facilis! Cum enim natus earum nemo non, repellendus incidunt minus, repudiandae blanditiis ipsam dolores, ullam itaque unde delectus veniam quis amet molestiae! Modi alias labore at ipsam nulla veritatis sapiente quibusdam, architecto aut voluptates fugiat voluptas ratione facere eligendi odit repudiandae perspiciatis reiciendis quae quidem? Tempora neque voluptas placeat beatae velit itaque, quae tenetur nemo id ipsam dolorum.</P>
 
-    
+    <div class="image-container">
+        <img class="image" src="../../images/blue.webp" alt="">
+
+    </div>
+    <p> Lorem ipsum dolor <span> ❤</span> sit amet consectetur adipisicing elit. Commodi, sint!</p>
+    <a href="www.google.com">google</a>
 
 
 
