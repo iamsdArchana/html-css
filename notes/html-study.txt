@@ -22,7 +22,7 @@ specificity :- inline css > internal css > external css.
 css :- color, background-color, width, height, border, border-radius, font-size,            :- done
 
 homework
-make a web-page => heading, button, a, img, jitna padhi h sab use karna h.
+make a web-page => heading, button, a, img, jitna padhi h sab0 use karna h.
 
 
 28/12/2023
